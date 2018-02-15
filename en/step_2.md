@@ -1,13 +1,3 @@
-## What you will need
+## Three methods
 
-### Hardware
-
-+ List hardware here, or delete section.
-
-### Software
-
-+ List software here, or delete section.
-
-### Additional Resources
-
-+ List additional resources, or delete section.
+There are a number of ways to design and construct a laser cut enclosure. Many of these methods are adaptations of traditional joinery techniques used in woodworking or other types of flat stock fabrication. With certain adaptations, these techniques work well as laser cut designs, and can be made more quickly and easily than their wood shop counterparts, which require many repetitions of highly accurate cuts.

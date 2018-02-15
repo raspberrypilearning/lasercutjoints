@@ -1,25 +1,9 @@
 ## Introduction
 
-Add project description here. What will learners be making?
+Makers and hackers love to build a wide variety of projects. These creations may range from the fun, interesting, and weird, to the serious, practical, and useful. They may be intended for music creation, gaming, education, assistive technology, communications, holiday decoration, media streaming, puzzles, theatre props, and – well, the sky’s the limit! These wonderful projects are often made of electronic components, mechanical parts, motors, microcontrollers,  buttons, switches, dials, speakers, LEDs, keypads, batteries, displays, and even small embedded computers. Among this infinite, delightful variety, nearly all have one thing in common – once the prototyping is done, and the project is ready to be deployed and used, they need a case or enclosure to bring all of the elements together, to provide some protection, and even to give form and layout to their inputs and outputs. 
 
-### What you will make
+Given the variety and creativity of your projects, why settle for an off-the-shelf, generic project box, with holes drilled and cut into it, when you can build your own case that’s customised for your exact needs? With access to a laser cutter at your local hackerspace, or by using an online vendor such as Ponoko.com (which has local hubs in a number of regions), you can build exactly what you need to suit your project enclosure needs. 
 
-Add something here to showcase here, for example:
+The high precision and minimal kerf (the gap of material lost along a cut) of laser cutting means that you can build joints and features to accommodate your components with very tight tolerances. You can design your enclosure using free, open source vector drawing tools, such as Inkscape. There are also online, browser-based box generators such as makercase.com to get you started. 
 
-<div class="scratch-preview">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/160619869/?autostart=false" frameborder="0"></iframe>
-</div>
-
-Add instructions here. These should explain either how the finished project will work, or explain how to interact with the content above.
-
-### What you will learn
-
-This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum){:target="_blank"}:
-
-+ [Add curriculum strand/level description.](https://www.raspberrypi.org/curriculum/strand/level){:target="_blank"}
-
-### Additional information for educators
-
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/project-name/print){:target="_blank"}.
-
-Use the link in the footer to access the GitHub repository for this project, which contains all resources (including an example finished project) in the 'en/resources' folder.
+Including components is easy. Add a proper circle to your design and you’ve got a perfect, press-fit opening for an arcade button!
