@@ -5,5 +5,5 @@ The key to making finger joints is creating interlocking tabs with a cut depth e
 
 After cut and assembly, finger joints are typically glued together with an appropriate adhesive for your material type, such as wood glue for wood, or acrylic cement for acrylic. 
 
-Note, you can place the tabs wherever you like on the edges, so long as you match them to the gaps of the joining face. It’s not uncommon to see finger joints run across the entire length of each edge, which is what the parametric online software usually does, but that’s not usually necessary — you can get away with many fewer tabs, which makes for a quicker cut on the laser. 
+Note, you can place the tabs wherever you like on the edges, so long as you match them to the gaps of the joining face. It’s not uncommon to see finger joints run across the entire length of each edge, which is what the parametric online software usually does, but that’s not usually necessary — you can get away with far fewer tabs, which makes for a quicker cut on the laser. 
 ![The finger joint is usually designed by automatic software, but can be customised for your needs](images/step3.jpg)
